@@ -1,0 +1,7 @@
+{
+    "target_overrides": {
+        "*": {
+            "target.components_add": ["SPIF", "SD", "FPGA_CI_TEST_SHIELD"]
+        }
+    }
+}
